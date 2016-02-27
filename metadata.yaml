@@ -1,0 +1,25 @@
+_repo: The-Complete-Works-of-Brann-the-Iconoclast-Volume-01_567
+creator:
+  author:
+    agent_name: Brann, William Cowper
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '290'
+    url: http://www.gutenberg.org/2009/agents/290
+    wikipedia: http://en.wikipedia.org/wiki/William_Cowper_Brann
+description: ''
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brann, William Cowper, 1855-1898'
+- !lcsh 'Essays'
+- !lcsh 'Reformers'
+- !lcc 'PS'
+title: The Complete Works of Brann, the Iconoclast — Volume 01
+url: http://www.gutenberg.org/ebooks/567
